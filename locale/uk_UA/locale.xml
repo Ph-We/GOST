@@ -15,12 +15,12 @@
   -->
  
 <locale name="uk_UA" full_name="Українська">
-       <message key="plugins.citationFormats.GOST.displayName">Модуль формату цитат GOST</message>
-       <message key="plugins.citationFormats.GOST.citationFormatName">GOST</message>
-       <message key="plugins.citationFormats.GOST.description">Цей модуль дозволяє використання формату цитат GOST.</message>
+       <message key="plugins.citationFormats.GOST.displayName">Модуль формату цитат ГОСТ 7.0.5-2008</message>
+       <message key="plugins.citationFormats.GOST.citationFormatName">ГОСТ</message>
+       <message key="plugins.citationFormats.GOST.description">Цей модуль дозволяє використання формату цитат ГОСТ 7.0.5-2008.</message>
        <message key="plugins.citationFormats.GOST.retrieved"><![CDATA[URL: <a href="{$url}" target="_new">{$url}</a> (дата доступу: {$retrievedDate})]]></message>
 	<message key="plugins.citationFormats.GOST.manager.settings">Налаштування</message>
-	<message key="plugins.citationFormats.GOST.manager.GOSTCitationSettings">Налаштування модуля формату цитат GOST</message>
-	<message key="plugins.citationFormats.GOST.manager.settings.description">Налаштування, потрібні для створення цитат формату GOST.</message>
+	<message key="plugins.citationFormats.GOST.manager.GOSTCitationSettings">Налаштування модуля формату цитат ГОСТ</message>
+	<message key="plugins.citationFormats.GOST.manager.settings.description">Налаштування, потрібні для створення цитат формату ГОСТ 7.0.5-2008.</message>
 	<message key="plugins.citationFormats.GOST.manager.settings.location">Розташування</message>
 </locale>

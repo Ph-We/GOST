@@ -12,12 +12,12 @@
   -->
  
 <locale name = "fr_CA" full_name = "Français (Canada)">
-	<message key="plugins.citationFormats.GOST.displayName">Plugiciel de format de référence bibliographique GOST</message>
+	<message key="plugins.citationFormats.GOST.displayName">Plugiciel de format de référence bibliographique GOST (ГОСТ 7.0.5-2008)</message>
 	<message key="plugins.citationFormats.GOST.citationFormatName">GOST</message>
-	<message key="plugins.citationFormats.GOST.description">Ce plugiciel implante le format de référence bibliographique GOST.</message>
+	<message key="plugins.citationFormats.GOST.description">Ce plugiciel implante le format de référence bibliographique GOST (ГОСТ 7.0.5-2008).</message>
 	<message key="plugins.citationFormats.GOST.retrieved"><![CDATA[URL: <a href="{$url}" target="_new">{$url}</a> (date de consultation: {$retrievedDate})]]></message>
 	<message key="plugins.citationFormats.GOST.manager.settings">Paramètres</message>
 	<message key="plugins.citationFormats.GOST.manager.GOSTCitationSettings">Paramétrage du plugiciel pour le format de citation GOST</message>
-	<message key="plugins.citationFormats.GOST.manager.settings.description">Paramètres utilisés pour créer des citations sous format GOST</message>
+	<message key="plugins.citationFormats.GOST.manager.settings.description">Paramètres utilisés pour créer des citations sous format GOST (ГОСТ 7.0.5-2008)</message>
 	<message key="plugins.citationFormats.GOST.manager.settings.location">Localisation</message>
 </locale>

@@ -12,9 +12,9 @@
   -->
  
 <locale name="en_US" full_name="U.S. English">
-	<message key="plugins.citationFormats.GOST.displayName">GOST citation format plugin</message>
+	<message key="plugins.citationFormats.GOST.displayName">GOST (ГОСТ 7.0.5-2008) citation format plugin</message>
 	<message key="plugins.citationFormats.GOST.citationFormatName">GOST</message>
-	<message key="plugins.citationFormats.GOST.description">This plugin implements the GOST citation format.</message>
+	<message key="plugins.citationFormats.GOST.description">This plugin implements the GOST (ГОСТ 7.0.5-2008) citation format.</message>
 	
 	<message key="plugins.citationFormats.GOST.manager.settings">Settings</message>
 	<message key="plugins.citationFormats.GOST.manager.GOSTCitationSettings">GOST citation format plugin settings</message>
